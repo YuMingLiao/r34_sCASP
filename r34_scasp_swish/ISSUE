@@ -1,0 +1,23 @@
+I cannot reproduce the result of not r34 may ....
+seems the offline version consider more about defeat oppose r34...
+
+(scasp in swipl)'s answer is better than scasp, no extras. why?
+
+
+
+I use swipl's scasp, not home manager's scasp, the same result.
+And it's not about flag.
+scasp vomit more "There is no evidence ..."
+
+scasp in swipl, if stand-alone, no human in model and tree.
+scasp in swipl or not, no human model and tree in cmd, but in html, yes.
+
+#pred only appear in query in cmd scasp.
+#pred shows in html..
+
+
+legally_holds is in lpdat.pl, not in online.
+
+after add legally_holds to swish_lpdat.pl, things get worse.
+
+I need a diff for functions on no order files, like prolog and haskell.
